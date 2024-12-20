@@ -1,4 +1,4 @@
-# HomeWorks Practice
+# HomeWorks Practice - Programming Language Comparison
 
 This repository contains a collection of homework assignments and practice projects developed by Eduardo Torres Alamo. It serves as a personal archive and reference for improving skills in programming, problem-solving, and various technologies.
 
